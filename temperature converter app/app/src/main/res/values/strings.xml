@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="celsius_hint">Enter Celsius Temperature</string>
+    <string name="convert_to_fahrenheit">Convert to Fahrenheit</string>
+    <string name="result_fahrenheit">Fahrenheit: %.2f °F</string>
+    <string name="fahrenheit_hint">Enter Fahrenheit Temperature</string>
+    <string name="convert_to_celsius">Convert to Celsius</string>
+    <string name="result_celsius">Celsius: %.2f °C</string>
+    <string name="invalid_input">Invalid input</string>
+</resources>
